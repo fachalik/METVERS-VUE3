@@ -14,7 +14,7 @@ import FooterComponent from '@/components/FooterComponent.vue'
 </script>
 
 <template>
-  <main>
+  <main class="bg-black overflow-hidden">
     <NavbarComponent />
     <HeroSection />
     <AboutSection />
